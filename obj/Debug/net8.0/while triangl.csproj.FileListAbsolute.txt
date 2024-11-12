@@ -1,0 +1,14 @@
+C:\Users\troubleman96\Desktop\Pluto!\c#\while triangl\bin\Debug\net8.0\while triangl.exe
+C:\Users\troubleman96\Desktop\Pluto!\c#\while triangl\bin\Debug\net8.0\while triangl.deps.json
+C:\Users\troubleman96\Desktop\Pluto!\c#\while triangl\bin\Debug\net8.0\while triangl.runtimeconfig.json
+C:\Users\troubleman96\Desktop\Pluto!\c#\while triangl\bin\Debug\net8.0\while triangl.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\while triangl\bin\Debug\net8.0\while triangl.pdb
+C:\Users\troubleman96\Desktop\Pluto!\c#\while triangl\obj\Debug\net8.0\while triangl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troubleman96\Desktop\Pluto!\c#\while triangl\obj\Debug\net8.0\while triangl.AssemblyInfoInputs.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\while triangl\obj\Debug\net8.0\while triangl.AssemblyInfo.cs
+C:\Users\troubleman96\Desktop\Pluto!\c#\while triangl\obj\Debug\net8.0\while triangl.csproj.CoreCompileInputs.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\while triangl\obj\Debug\net8.0\while triangl.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\while triangl\obj\Debug\net8.0\refint\while triangl.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\while triangl\obj\Debug\net8.0\while triangl.pdb
+C:\Users\troubleman96\Desktop\Pluto!\c#\while triangl\obj\Debug\net8.0\while triangl.genruntimeconfig.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\while triangl\obj\Debug\net8.0\ref\while triangl.dll
